@@ -1,25 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 25.0.1700.5
+VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseCSharp", "CourseCSharp.csproj", "{D9C9BD9D-7D32-4F02-9016-8A006D618861}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseCSharp", "src\Console.Application\CourseCSharp.csproj", "{08FC6DAF-F6DA-45CD-A3CB-85BC330C320F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D9C9BD9D-7D32-4F02-9016-8A006D618861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D9C9BD9D-7D32-4F02-9016-8A006D618861}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D9C9BD9D-7D32-4F02-9016-8A006D618861}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D9C9BD9D-7D32-4F02-9016-8A006D618861}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F191A26C-73A1-477F-9766-01ED86415BA7}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08FC6DAF-F6DA-45CD-A3CB-85BC330C320F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FC6DAF-F6DA-45CD-A3CB-85BC330C320F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FC6DAF-F6DA-45CD-A3CB-85BC330C320F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FC6DAF-F6DA-45CD-A3CB-85BC330C320F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
