@@ -5,4 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="CourseCSharp.csproj" />
+  </ItemGroup>
 </Project>
